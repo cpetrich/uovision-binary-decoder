@@ -10,4 +10,4 @@ python:
   - "pypy"
   - "pypy3"
 # command to run tests
-script: pytest
+script: py.test
